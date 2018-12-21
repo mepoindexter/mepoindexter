@@ -1,2 +1,2 @@
 # mepoindexter
-trinning site
+training site
